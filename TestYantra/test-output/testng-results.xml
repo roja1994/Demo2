@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44402" started-at="2020-01-22T04:16:58Z" finished-at="2020-01-22T04:17:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44402" started-at="2020-01-22T04:16:58Z" finished-at="2020-01-22T04:17:42Z">
+      <class name="DynamicWebTable.TestDynamicWebTable">
+        <test-method status="PASS" signature="testWebTable()[pri:0, instance:DynamicWebTable.TestDynamicWebTable@6ea12c19]" name="testWebTable" duration-ms="44370" started-at="2020-01-22T09:46:58Z" finished-at="2020-01-22T09:47:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWebTable -->
+      </class> <!-- DynamicWebTable.TestDynamicWebTable -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
